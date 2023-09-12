@@ -1,4 +1,4 @@
-# dron_publico
+![sensor-presion](https://github.com/Addrys/dron_publico/assets/93978561/02a7e46c-7230-4891-86b5-0789af740150)# dron_publico
 Imágenes e información del proyecto privado "ProyectoDron"
 
 Toca crear el entorno para programar la raspberry pi pico, con el SDK C/C++ de arduino e instalar la toolchain y todas las herramientas necesarias para poder programar con ella, y aprender a usar mediante I2C el sensor acelerometro giroscopio que usaré.
@@ -39,4 +39,14 @@ Ya con el sistema funcionando al conjunto y tras pruebas y configuraciones para 
 En este video se puede ver una de las primeras pruebas del dron volando con un PID que intenta estabilizarlo, mientras yo le mando con un potenciometro el valor base de "acelerador"
 
 https://github.com/Addrys/dron_publico/assets/93978561/464934d8-f83c-471c-8719-104de9d967ad
+
+Nuevo microcontrolador Rp2040 para poder deputar la raspberry principal
+![rp-zero](https://github.com/Addrys/dron_publico/assets/93978561/573daf1f-a5f6-4cd5-8f2c-02dc02534476)
+
+Capacitores para desacoplar los ESC y estabilizar la entrada de corriente por la batería
+![capacitores](https://github.com/Addrys/dron_publico/assets/93978561/80364634-99db-4ee4-bf20-43623265e413)
+
+Sensor de presion para añadir control de altitud
+
+Nuevo giroscopio con magnetómetro
 
