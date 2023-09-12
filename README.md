@@ -40,13 +40,15 @@ En este video se puede ver una de las primeras pruebas del dron volando con un P
 
 https://github.com/Addrys/dron_publico/assets/93978561/464934d8-f83c-471c-8719-104de9d967ad
 
-Nuevo microcontrolador Rp2040 para poder deputar la raspberry principal
+Nuevo microcontrolador Rp2040 para poder depurar la raspberry principal
 ![rp-zero](https://github.com/Addrys/dron_publico/assets/93978561/573daf1f-a5f6-4cd5-8f2c-02dc02534476)
 
 Capacitores para desacoplar los ESC y estabilizar la entrada de corriente por la batería
 ![capacitores](https://github.com/Addrys/dron_publico/assets/93978561/80364634-99db-4ee4-bf20-43623265e413)
 
 Sensor de presion para añadir control de altitud
+![sensor-presion](https://github.com/Addrys/dron_publico/assets/93978561/b382ca0a-fc95-48e1-bf2f-0dc06a6e3a96)
 
 Nuevo giroscopio con magnetómetro
+![giroscopio-magnetometro](https://github.com/Addrys/dron_publico/assets/93978561/e448a584-bf3b-4225-b789-0c1e25facd23)
 
