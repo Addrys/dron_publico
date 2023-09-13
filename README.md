@@ -17,7 +17,7 @@ Partes a soldar ( 4x Electronic speed controllers [ESC] y Battery Eliminator cir
 
 ![premontaje](https://github.com/Addrys/dron_publico/assets/93978561/a7ac014c-7125-44b0-a0c9-ce5568680ad2)
 
-Soldadura mala pero suficiente debido a que el soldador no calienta lo suficiente (culpa de aliexpress) y el estaño se endurece al enfriarse pasivamente con la placa de cobre que forma el BEC
+Soldadura mala pero suficiente debido a que el soldador no calienta lo suficiente (culpa de aliexpress jajaj) y el estaño se endurece al enfriarse pasivamente con la placa de cobre que forma el BEC
 
 ![soldadura esc](https://github.com/Addrys/dron_publico/assets/93978561/9b82b737-493a-4a7c-bc69-8378ae20c548)
 
