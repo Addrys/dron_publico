@@ -21,7 +21,7 @@ Soldadura mala pero suficiente debido a que el soldador no calienta lo suficient
 
 ![soldadura esc](https://github.com/Addrys/dron_publico/assets/93978561/9b82b737-493a-4a7c-bc69-8378ae20c548)
 
-Motor a conectar en el ESC
+Motor sin escobillas que vamos a usar para el dron.
 
 ![motor_imagen](https://github.com/Addrys/dron_publico/assets/93978561/0708a198-a0ba-4d2e-9ad8-11b91850358f)
 
