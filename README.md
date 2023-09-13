@@ -36,7 +36,7 @@ Tras unas pruebas se ha roto el ESC del motor3, por suerte tengo uno de repuesto
 Ya con el sistema funcionando al conjunto y tras pruebas y configuraciones para que los 4 motores vayan a la par con el mismo nivel de "acelerador" toca montar la raspberry en el dron
 ![integracion raspberry en drone](https://github.com/Addrys/dron_publico/assets/93978561/5132eb2c-ace2-4c78-8263-0f7ed4054633)
 
-En este video se puede ver una de las primeras pruebas del dron volando con un PID que intenta estabilizarlo, mientras yo le mando con un potenciometro el valor base de "acelerador"
+En este video se puede ver una de las primeras pruebas del dron volando con un PID que intenta estabilizarlo, mientras yo le mando con un potenciometro el valor base de "acelerador", es muy inestable al no haber limitado el integrador, y los tiempos de respuesta demasiado elevados. (Ya solucionado el integrador, necesito un nuevo giroscopio ya que el antiguo va perdiendo el punto de referencia por las vibraciones
 
 https://github.com/Addrys/dron_publico/assets/93978561/464934d8-f83c-471c-8719-104de9d967ad
 
@@ -51,7 +51,6 @@ Sensor de presion para añadir control de altitud
 
 Placa soldada
 ![image](https://github.com/Addrys/dron_publico/assets/93978561/54ac5073-fbf9-4c94-911f-ed3821de510d)
-
 
 
 Nuevo giroscopio con magnetómetro
