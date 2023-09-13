@@ -49,10 +49,12 @@ Capacitores para desacoplar los ESC y estabilizar la entrada de corriente por la
 Sensor de presion para añadir control de altitud
 ![sensor-presion](https://github.com/Addrys/dron_publico/assets/93978561/b382ca0a-fc95-48e1-bf2f-0dc06a6e3a96)
 
-Placa soldada
-![image](https://github.com/Addrys/dron_publico/assets/93978561/54ac5073-fbf9-4c94-911f-ed3821de510d)
-
 
 Nuevo giroscopio con magnetómetro
 ![giroscopio-magnetometro](https://github.com/Addrys/dron_publico/assets/93978561/e448a584-bf3b-4225-b789-0c1e25facd23)
+
+Placa soldada con la que vamos a trabajar a partir de ahora, la raspberry con la nueva MPU de 9 ejes de libertad y sensor de presion para poder calcular la altitud (resolución de 1m, a ver si nos sirve de algo o tenemos que poner sensores de proximidad finalmente)
+![image](https://github.com/Addrys/dron_publico/assets/93978561/54ac5073-fbf9-4c94-911f-ed3821de510d)
+
+
 
