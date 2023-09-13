@@ -1,4 +1,4 @@
-![sensor-presion](https://github.com/Addrys/dron_publico/assets/93978561/02a7e46c-7230-4891-86b5-0789af740150)# dron_publico
+# dron_publico
 Imágenes e información del proyecto privado "ProyectoDron"
 
 Toca crear el entorno para programar la raspberry pi pico, con el SDK C/C++ de arduino e instalar la toolchain y todas las herramientas necesarias para poder programar con ella, y aprender a usar mediante I2C el sensor acelerometro giroscopio que usaré.
@@ -48,6 +48,11 @@ Capacitores para desacoplar los ESC y estabilizar la entrada de corriente por la
 
 Sensor de presion para añadir control de altitud
 ![sensor-presion](https://github.com/Addrys/dron_publico/assets/93978561/b382ca0a-fc95-48e1-bf2f-0dc06a6e3a96)
+
+Placa soldada
+![image](https://github.com/Addrys/dron_publico/assets/93978561/54ac5073-fbf9-4c94-911f-ed3821de510d)
+
+
 
 Nuevo giroscopio con magnetómetro
 ![giroscopio-magnetometro](https://github.com/Addrys/dron_publico/assets/93978561/e448a584-bf3b-4225-b789-0c1e25facd23)
