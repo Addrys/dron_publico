@@ -1,7 +1,7 @@
 # dron_publico
-Imágenes e información del proyecto privado "ProyectoDron"
+Repositorio en el que empezaré a subir algunas Imágenes e información del proyecto privado "ProyectoDron".
 
-Toca crear el entorno para programar la raspberry pi pico, con el SDK C/C++ de arduino e instalar la toolchain y todas las herramientas necesarias para poder programar con ella, y aprender a usar mediante I2C el sensor acelerometro giroscopio que usaré.
+Toca crear el entorno para programar la raspberry pi pico, con el SDK C/C++ de raspberry e instalar la toolchain y todas las herramientas necesarias para poder programar con ella, y aprender a usar mediante I2C el sensor acelerometro giroscopio que usaré.
 ![Raspberry pi pico](https://github.com/Addrys/dron_publico/assets/93978561/6f95b5e1-4fb6-4f17-a852-f4a95a912661)
 
 Arduino Mega para flashear los ESC
