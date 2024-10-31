@@ -1,6 +1,9 @@
 # Drone (multimedia)
 Repository in which I will start to upload some images and information of the private project “ProyectoDron”.
 
+After some tests, the ESC of motor 3 has broken, luckily I have a spare one, so it is time to replace it.
+![Reparacion_M3](https://github.com/Addrys/dron_publico/assets/93978561/fef03abc-d376-4c22-81bc-149a60c8b0c5)
+
 It's time to create the environment to program the raspberry pi pico, with the raspberry C/C++ SDK and install the toolchain and all the necessary tools to be able to program with it, and learn to use the gyroscope accelerometer sensor that I will use through I2C.
 ![Raspberry pi pico](https://github.com/Addrys/dron_publico/assets/93978561/6f95b5e1-4fb6-4f17-a852-f4a95a912661)
 
@@ -33,8 +36,7 @@ Assembled, it's time to test the system with the 4 motors one by one, before fla
 
 ![Assembly](https://github.com/Addrys/dron_publico/assets/93978561/4966e92a-b048-4d7e-9ba6-284854005f0d)
 
-After some tests, the ESC of motor 3 has broken, luckily I have a spare one, so it is time to replace it.
-![Reparacion_M3](https://github.com/Addrys/dron_publico/assets/93978561/fef03abc-d376-4c22-81bc-149a60c8b0c5)
+
 
 Once the system is working as a whole and after tests and configurations so that the 4 motors go at the same speed with the same level of “accelerator” it is time to mount the raspberry in the drone.
 ![Raspberry integration](https://github.com/Addrys/dron_publico/assets/93978561/5132eb2c-ace2-4c78-8263-0f7ed4054633)
